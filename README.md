@@ -1,7 +1,9 @@
 [![GitHub Repository 1](https://img.shields.io/badge/GitHub-Explore%20the%20Code-blue?logo=github)](https://github.com/NoahMeissner/Python-Image-Processor/tree/main/Source_Code)
 
 # Python-Image-Processor
-Small and Simple Image Processor, to save and apply Image Filters. Can be used with a graphical User Interface or via CMD.
+Process your images with Image Processor. You can use a command line interface or a graphical user interface, our tool will suit your needs.
+Apply a range of image filters including Swirl, Erode/Dilate, Contrast, Brightness and Threshold to enhance your images. Save and apply filters with ease for quick adjustments and refinements.
+
 You can use various Image Filters like:
 - Swirl
 - Erode / Dilate
@@ -11,12 +13,12 @@ You can use various Image Filters like:
 
 ## Usage
 You can use it via CMD or Graphical Interface.
-CMD:
-
+**CMD:
+**
 python3 filtertool.py filter_type blur --value 4 --area x_min, x_max, y_min, y_max --original_image example.png
 
-Graphical Interface:
-
+**Graphical Interface:
+**
 python3 graphical_interface.py
 
 <img src="Filter_image.jpg">
