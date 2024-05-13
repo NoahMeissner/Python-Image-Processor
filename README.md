@@ -1,3 +1,5 @@
+# <span style="color:blue">Python Image Processor</span>
+
 # Python-Image-Processor
 Small and Simple Image Processor, to save and apply Image Filters. Can be used with a graphical User Interface or via CMD.
 You can use various Image Filters like:
@@ -16,6 +18,8 @@ python3 filtertool.py filter_type blur --value 4 --area x_min, x_max, y_min, y_m
 Graphical Interface:
 
 python3 graphical_interface.py
+
+<img src="Filter_image.png" width=50% height=50%>
 
 
 ## Installation Guide
