@@ -13,8 +13,10 @@ You can use various Image Filters like:
 
 ## Usage
 You can use it via CMD or Graphical Interface.
+
 **CMD:**
 python3 filtertool.py filter_type blur --value 4 --area x_min, x_max, y_min, y_max --original_image example.png
+
 
 **Graphical Interface:**
 python3 graphical_interface.py
