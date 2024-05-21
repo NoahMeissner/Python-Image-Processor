@@ -24,6 +24,13 @@ python3 graphical_interface.py
 <img src="Filter_image.jpg">
 
 
+
+https://github.com/NoahMeissner/Python-Image-Processor/assets/108337767/b8cfa291-16c2-41b7-8f66-2c8b548f0936
+
+
+
+
+
 ## Installation Guide
 You must install follwing Libraries/Python version
 - click (version 8.1.7)
